@@ -8,7 +8,7 @@ from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
 
 
-BOT_TOKEN = "6093877183:AAGsnqMWR-d2yXPyImJLr6ApZXo9qmBxzzg"
+BOT_TOKEN = "6130430153:AAFCAzkpHwHXs8fXUVpvgYpVb3EBu8-5UnQ"
 bot = TeleBot(BOT_TOKEN)
 
 
